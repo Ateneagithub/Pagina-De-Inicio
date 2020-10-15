@@ -9,3 +9,5 @@ Estamos viendo diversas partes y comandos de git
 
 "estamos haciendo un comentario 2"
 Sumando un ultimo texto
+
+"nuevos comentarios en readme 2 - automatico- por favor verificar x o tal cambio- mensaje para los demas miembros del equipo"
