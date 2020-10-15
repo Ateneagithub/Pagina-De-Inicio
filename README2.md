@@ -7,4 +7,5 @@ Estamos viendo diversas partes y comandos de git
 ##Sumate 
 ###Entrenando GIT
 
+"estamos haciendo un comentario 2"
 Sumando un ultimo texto
