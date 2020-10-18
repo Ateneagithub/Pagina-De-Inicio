@@ -13,3 +13,5 @@ Sumando un ultimo texto
 "nuevos comentarios en readme 2 - automatico- por favor verificar x o tal cambio- mensaje para los demas miembros del equipo"
 
 SEGUNDOS CAMBIOS REBASING 
+
+MAS CAMBIOS  DESPUES DE rebasing
