@@ -16,3 +16,5 @@ SEGUNDOS CAMaags
  primesdasdrosccagsadgsgd conflict
 
 " soy otro colaborador ingresando informacion desde github"
+
+CAMBIOS STASH EN README2
