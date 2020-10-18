@@ -1,4 +1,5 @@
-lE BORRO EL  TITUTLO EN OTRO BRANCH PARA CONFLICT DE REBASE 
+EJEMPLO DE TAGGING
+
 Agregando primer comentario
 ##asf
 Estamos viendo como se conecta git y github
