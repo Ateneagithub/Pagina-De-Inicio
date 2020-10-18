@@ -1,2 +1,2 @@
-demostracion de conflicto de rebase
-nuevos .5
+en este lugar vamos a tener un inconveniente
+otros cambios 11.0
