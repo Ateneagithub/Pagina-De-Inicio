@@ -14,3 +14,5 @@ Sumando un ultimo texto
 cambie
 SEGUNDOS CAMaags 
  primesdasdrosccagsadgsgd conflict
+
+" soy otro colaborador ingresando informacion desde github"
